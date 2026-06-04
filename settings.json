@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FireSmpS-7.aternos.me:45128",
+    "ip": "FireSmpS-7.aternos.me",
     "port": 45128,
     "version": "",
     "try-creative": false
