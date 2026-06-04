@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FireSmpS-7.aternos.me:45128",
+    "port": 45128,
     "version": "",
     "try-creative": false
   },
